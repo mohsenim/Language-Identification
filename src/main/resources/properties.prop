@@ -1,0 +1,8 @@
+# The path of input text files for different languages
+input = texts
+
+# The path in which language models are saved
+lang_models_path = lang_models
+
+# Up to which length ngrams are extracted and used
+max_ngram_length = 3
